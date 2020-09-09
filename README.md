@@ -1,21 +1,26 @@
-### Hi there 👋
+<div align="center">
+   <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Hoyame :) </h1>
+</div>
 
+<p>
+<a href=https://discord.gg/rZrrJKG target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg alt="zboub collective" height="20" width="20" /></a>
+<a href=https://www.twitch.tv/hoyameee target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg alt="hoyamee" height="20" width="20" /></a> 
+</p>
 
-[![Hoyame's github stats](https://github-readme-stats.vercel.app/api?username=hoyame&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Here are some ideas to get you started:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyame&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on @GLife
+- 👯 I’m looking to collaborate on ZboubS
 
-<!--
-**hoyame/Hoyame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<details> 
+  <summary>:zap: My GitHub Stats</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br />
+  
+  [![Hoyame's github stats](https://github-readme-stats.vercel.app/api?username=hoyame&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyame&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
