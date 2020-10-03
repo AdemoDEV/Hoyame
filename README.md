@@ -5,7 +5,7 @@
 <a href=https://www.twitch.tv/hoyameee target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg alt="hoyamee" height="20" width="20" /></a> 
 </p>
 
-### Here are some ideas to get you started:
+### So:
 
 - 🔭 I’m currently working on @GLife
 - 👯 I’m looking to collaborate on ZboubS
