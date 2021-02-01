@@ -8,7 +8,6 @@
 ### So:
 
 - 🔭 I’m currently working on @GLife
-- 👯 I’m looking to collaborate on ZboubS
 
 <br/>
 
